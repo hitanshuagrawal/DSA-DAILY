@@ -12,6 +12,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0283-move-zeroes) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -39,5 +41,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
