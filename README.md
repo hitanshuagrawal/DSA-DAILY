@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0189-rotate-array) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0268-missing-number) |
 ## Divide and Conquer
