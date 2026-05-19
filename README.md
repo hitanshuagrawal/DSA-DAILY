@@ -24,6 +24,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2574-left-and-right-sum-differences](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +76,5 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/0560-subarray-sum-equals-k) |
+| [2574-left-and-right-sum-differences](https://github.com/hitanshuagrawal/DSA-DAILY/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
